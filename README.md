@@ -1,0 +1,1 @@
+# Django_web_application_for_mime_app
